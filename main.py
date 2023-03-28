@@ -116,7 +116,7 @@ if input1 == "layer4":
         ip = input(f"ip ══ ")
         port = input(f"port ══ ")
         timeudp = input(f"time ══ ")
-        os.system("cd files/dont_look && python3 start.py UDP " + ip + ":" + port + " 500 " + timeudp + " 5 " + "no_proxy.txt")
+        os.system("cd files/dont_look && python3 start.py UDP " + ip + ":" + port + " 500 " + timeudp)
 
     if layer4input == "SYN":
         ip = input(f"ip ══ ")
