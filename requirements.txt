@@ -1,0 +1,12 @@
+cloudscraper==1.2.60
+certifi>=2022.12.07
+dnspython>=2.2.0
+requests==2.27.1
+impacket==0.9.23
+psutil>=5.9.0
+icmplib>=2.1.1
+git+https://github.com/MHProDev/PyRoxy.git
+yarl~=1.7.2
+requests==2.27.1
+requests-toolbelt==0.10.1
+sockets==1.0.0
