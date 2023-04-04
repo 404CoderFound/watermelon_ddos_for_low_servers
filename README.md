@@ -6,6 +6,8 @@ apt-get install python3-pip
 
 git clone https://github.com/404CoderFound/watermelon_ddos_for_low_servers.git
 
+cd watermelon_ddos_for_low_servers
+
 pip3 install -r requirements.txt
 
 mkdir files/dont_look/files/proxies
