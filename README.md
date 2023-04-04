@@ -4,7 +4,7 @@ apt-get install python3
 
 apt-get install python3-pip
 
-git clone https://github.com/404CoderFound/watermelon_ddos.git
+git clone https://github.com/404CoderFound/watermelon_ddos_for_low_servers.git
 
 pip3 install -r requirements.txt
 
